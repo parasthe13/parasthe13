@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @parasthe13
-- 👀 I’m interested in Web Dev, Android Dev, Machine Learning
+- 👀 I’m interested in Web Dev, CP, Machine Learning
 - 🌱 I’m currently learning C/C++,Python.
 - 💞️ I’m looking to collaborate on projects which interest me.
-- 📫 How to reach me Insta: @paras.the13
+- 📫 Reach Me @parasgupta181@gmail.com
 
 <!---
 parasthe13/parasthe13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
